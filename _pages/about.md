@@ -1,3 +1,14 @@
+---
+permalink: /
+title: "About Me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 <p align="center">
   <img src="https://github.com/colinrsmall/colinrsmall.github.io/blob/master/files/about_image_wide.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
