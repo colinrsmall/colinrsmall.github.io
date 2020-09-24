@@ -10,7 +10,7 @@ redirect_from:
 
 
 <p align="center">
-  <img src="https://github.com/colinrsmall/colinrsmall.github.io/blob/master/files/about_image_wide.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://github.com/colinrsmall/colinrsmall.github.io/blob/master/files/about_image_wide.JPG?raw=true" alt="Photo" style="width: 550px;"/> 
 </p>
 
 About Me
