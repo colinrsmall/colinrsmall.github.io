@@ -1,7 +1,7 @@
 ---
 title: Automated Detection of Magnetopause Crossings
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-09-25-helioml_chapter
 excerpt: This eBook chapter walks the reader through the development of our MMS SITL Ground Loop machine learning model.
 date: {2020-09-25}
 venue: Machine Learning, Statistics, and Data Mining for Heliophysics
